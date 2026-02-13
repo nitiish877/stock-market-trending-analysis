@@ -1,0 +1,43 @@
+TASKS
+🔹 TASK 1
+
+Load both CSV
+Convert trade_date to datetime
+
+🔹 TASK 2
+
+Merge trades + stocks
+
+🔹 TASK 3
+
+Create column:trade_value = price * quantity
+🔹 TASK 4 — Profit / Loss 🔥
+For each stock:
+
+Profit = Total SELL value − Total BUY value
+TASK 5 — Sector Analysis
+
+Sector wise total profit
+
+Best performing sector
+
+🔹 TASK 6 — Monthly Performance
+
+Month wise profit
+
+🔹 TASK 7 — Top Stock
+
+Highest profit stock
+
+Highest volume stock
+
+🔹 TASK 8 — Pivot Table
+
+Rows → month
+Columns → sector
+Values → profit
+
+🧠 Difficulty
+Real trading analytics  
+Advanced groupby  
+Business logic  
