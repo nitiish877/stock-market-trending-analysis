@@ -31,5 +31,3 @@ pivot=pd.pivot_table(data=main,
                      aggfunc="sum")
 
 main.to_csv("final1.csv")
-
-print(pivot)
