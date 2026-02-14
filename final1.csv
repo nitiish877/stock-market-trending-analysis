@@ -1,0 +1,9 @@
+,stock_id,stock_name,sector,trade_id,trade_date,price,quantity,trade_type,trade_value,month
+0,1,TCS,IT,101,2024-01-10,3500,10,BUY,-35000,January
+1,1,TCS,IT,102,2024-01-20,3600,10,SELL,36000,January
+2,2,Infosys,IT,103,2024-01-15,1400,20,BUY,-28000,January
+3,2,Infosys,IT,104,2024-02-10,1500,20,SELL,30000,February
+4,3,ITC,FMCG,105,2024-01-05,450,30,BUY,-13500,January
+5,3,ITC,FMCG,106,2024-02-01,500,30,SELL,15000,February
+6,5,SBIN,Banking,107,2024-01-25,600,40,BUY,-24000,January
+7,5,SBIN,Banking,108,2024-02-15,580,40,SELL,23200,February
